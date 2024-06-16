@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/umustmw/movieapp/static/css/main.281253a5.css",
+    "main.js": "/umustmw/movieapp/static/js/main.8a08fdc3.js",
+    "index.html": "/umustmw/movieapp/index.html",
+    "main.281253a5.css.map": "/umustmw/movieapp/static/css/main.281253a5.css.map",
+    "main.8a08fdc3.js.map": "/umustmw/movieapp/static/js/main.8a08fdc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.281253a5.css",
+    "static/js/main.8a08fdc3.js"
+  ]
+}
