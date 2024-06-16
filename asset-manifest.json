@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/umustmw/umustmw.github.io/static/css/main.281253a5.css",
-    "main.js": "/umustmw/umustmw.github.io/static/js/main.8a08fdc3.js",
-    "index.html": "/umustmw/umustmw.github.io/index.html",
-    "main.281253a5.css.map": "/umustmw/umustmw.github.io/static/css/main.281253a5.css.map",
-    "main.8a08fdc3.js.map": "/umustmw/umustmw.github.io/static/js/main.8a08fdc3.js.map"
+    "main.css": "/static/css/main.281253a5.css",
+    "main.js": "/static/js/main.8a08fdc3.js",
+    "index.html": "/index.html",
+    "main.281253a5.css.map": "/static/css/main.281253a5.css.map",
+    "main.8a08fdc3.js.map": "/static/js/main.8a08fdc3.js.map"
   },
   "entrypoints": [
     "static/css/main.281253a5.css",
